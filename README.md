@@ -1,0 +1,2 @@
+# Machine-Learning-Project_Top_10000_Movies
+This project uses the Top 10,000 Movies dataset to:  Clean and prepare the data (fix columns, types, missing values, duplicates). Do EDA (basic statistics + visualizations of ratings, votes, revenue, and correlations). Build ML models: Classification: predict “high engagement” (popular movies) using several lab models. Regression: predict a numeric target (mainly revenue, or a fallback) using Linear Regression.
